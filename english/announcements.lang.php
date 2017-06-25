@@ -5,12 +5,15 @@
  *
  */
 
-$l['nav_announcements'] = "Forum Announcement";
-$l['announcements'] = "Announcement";
-$l['forum_announcement'] = "Forum Announcement: {1}";
-$l['error_invalidannouncement'] = "The announcement specified is invalid.";
+$l['nav_announcements'] = "localized text";
+$l['announcements'] = "localized text";
+$l['forum_announcement'] = "localized text: {1}";
+$l['error_invalidannouncement'] = "localized text";
 
-$l['announcement_edit'] = "Edit this announcement";
-$l['announcement_qdelete'] = "Delete this announcement";
-$l['announcement_quickdelete_confirm'] = "Are you sure you want to delete this announcement?";
+$l['announcement_edit'] = "localized text";
+$l['announcement_qdelete'] = "localized text";
+$l['announcement_quickdelete_confirm'] = "localized text";
 
+/*
+
+This is for the new alright xdd */
